@@ -20,5 +20,3 @@ Install the `npm` packages described in `package.json`.
 
 Run `npm start` for a dev server. Navigate to [http://localhost:3000](http://localhost:3000) to view it in browser. The app will automatically reload if you change any of the source files.
 
-## App demo
-![app-demo](./app-demo.gif)
